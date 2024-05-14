@@ -18,5 +18,8 @@
     <ClCompile Include="constructor_0231.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="mbrStatikfungtion.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
