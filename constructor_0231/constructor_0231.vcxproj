@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="constructor_0231.cpp" />
     <ClCompile Include="constuctor.cpp" />
+    <ClCompile Include="destructor.cpp" />
     <ClCompile Include="mbrStatikfungtion.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
