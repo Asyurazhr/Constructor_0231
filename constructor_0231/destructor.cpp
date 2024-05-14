@@ -17,3 +17,4 @@ angka::angka(int i) {
 	isiData();
 }
 
+
